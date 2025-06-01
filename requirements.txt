@@ -1,2 +1,5 @@
+dash
 pandas
+numpy
+dash-bootstrap-components
 openpyxl
